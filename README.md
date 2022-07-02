@@ -2,7 +2,7 @@
 Flask APIs for local project
 
 
-There is two APIs created on Flask for local project.
+There is two APIs created with Flask for local project.
 
 - First route /upload created for uploading files to Google Cloud Storage using token. It`s supports different file types and have restriction of max file size.
 
