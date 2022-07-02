@@ -1,0 +1,4 @@
+flask
+google-cloud-storage
+flask_httpauth
+pymongo[srv]
